@@ -1,0 +1,15 @@
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.csproj.AssemblyReference.cache
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.AssemblyInfoInputs.cache
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.AssemblyInfo.cs
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.csproj.CoreCompileInputs.cache
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\bin\Debug\net6.0\Task50.exe
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\bin\Debug\net6.0\Task50.deps.json
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\bin\Debug\net6.0\Task50.runtimeconfig.json
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\bin\Debug\net6.0\Task50.dll
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\bin\Debug\net6.0\Task50.pdb
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.dll
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\refint\Task50.dll
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.pdb
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\Task50.genruntimeconfig.cache
+C:\GreekBrains\Yrok7_dvymernie_massivi_home_work\Task50\obj\Debug\net6.0\ref\Task50.dll
